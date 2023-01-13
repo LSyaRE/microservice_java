@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ApiProductoApplication",
+            "request": "launch",
+            "mainClass": "facturacion.api_producto.ApiProductoApplication",
+            "projectName": "api_producto"
+        }
+    ]
+}
